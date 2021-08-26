@@ -23,8 +23,8 @@ namespace BaltaStoreMs.Order.Infra.ExternalServices
                 {"bootstrap.servers", "pkc-lzvrd.us-west4.gcp.confluent.cloud:9092"},
                 {"security.protocol", "SASL_SSL"},
                 {"sasl.mechanisms", "PLAIN"},
-                {"sasl.username", "A24SKFVHW5WGR2NF"},
-                {"sasl.password", "30e6T8Esg038upIh0dfdgZKvlcC2Fh6F9VU0TGSy2wr/tfpOk+21QQkd6aL1SXdn"}
+                {"sasl.username", "HIDDEN"},
+                {"sasl.password", "HIDDEN"}
             };
 
             var clientConfig = new ClientConfig(cloudConfig);
